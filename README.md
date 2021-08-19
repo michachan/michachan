@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Michael!
 
 - 🔭 I’m currently working on finding the best balance between learning and resting
-- 🌱 I’m currently learning TypeScript and Next.JS
+- 🌱 I’m currently practicing TypeScript and Next.JS (as of August 19)
 - 🤔 I’m looking for SWE opportunities in the Bay Area
 - 💬 Ask me about my experience with Hack Reactor :)
 - 📫 How to reach me: michael@mchan.me
