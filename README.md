@@ -1,10 +1,8 @@
 ### Hi there 👋 I'm Michael!
 
-- 🔭 I’m currently working on finding the best balance between learning and recharging
-- 🌱 I’m currently practicing TypeScript, React Native, & Next.JS
-- Also practicing containerization and getting into the habit of Test Driven Development & Unit Tests
+- 💪 I'm recharged and tackling some of my biggest personal projects
+- 🌱 I’m currently practicing SSG/SSR with Next.JS
 - 🤔 I’m looking for SWE opportunities in the Bay Area
-- 💬 Ask me about my experience with Hack Reactor :)
-- 📫 How to reach me: michael@mchan.me
+- 💬 Ask me about my experiences with the League Boards or Hack Reactor!
+- 📫 How to reach me: michahc1@uci.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Hack Reactor - COMPLETE!
