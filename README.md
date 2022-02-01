@@ -3,7 +3,8 @@
 - 💪 I'm recharged and tackling some of my biggest personal projects
 - 🌱 I'm currently practicing TypeScript, Testing, and Chakra UI
 - 🌱 I'm planning on learning GraphQL, Storybook, and React Native next
-- 🤔 I’m looking for SWE opportunities in the Bay Area
+- 🤔 ~~I’m looking for SWE opportunities in the Bay Area~~ 
+  - 🙏 Thank you to everyone who helped me get here!
 - 💬 Ask me about my experiences with the League Boards or Hack Reactor!
 - 📫 How to reach me: mhcchan@ucdavis.edu
 - 😄 Pronouns: he/him/his
