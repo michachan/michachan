@@ -1,13 +1,9 @@
-### Hi there 👋 I'm Michael!
+### Hi there 👋 I'm Michael (he/him)!
 
-- 💪 I'm recharged and tackling some of my biggest personal projects
-- 🌱 I'm currently practicing TypeScript, Testing, and Chakra UI
-- 🌱 I'm planning on learning GraphQL, Storybook, and React Native next
 - 🤔 ~~I’m looking for SWE opportunities in the Bay Area~~ 
   - 🙏 Thank you to everyone who helped me get here!
 - 💬 Ask me about my experiences with the League Boards or Hack Reactor!
-- 📫 How to reach me: mhcchan@ucdavis.edu
-- 😄 Pronouns: he/him/his
+- 📫 Let's connect! [LinkedIn/michaelhchan](https://www.linkedin.com/in/michaelhchan/)
 
 #### Stack it!
 
@@ -34,14 +30,3 @@
 ![image](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-
