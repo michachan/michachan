@@ -2,6 +2,15 @@
 
 - 🤔 ~~I’m looking for SWE opportunities in the Bay Area~~ 
   - 🙏 Thank you to everyone who helped me get here!
+- Next up: 
+  - SQL optimization
+  - Double down on Jest and RTL
+  - Double down on TypeScript
+  - Java/Spring Boot
+  - Flask
+  - GraphQL
+  - React Native -> Flutter
+  - more React + RxJS + Redux/Redux Toolkit
 - 💬 Ask me about my experiences with the League Boards or Hack Reactor!
 - 📫 Let's connect! [LinkedIn/michaelhchan](https://www.linkedin.com/in/michaelhchan/)
 
