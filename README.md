@@ -1,8 +1,11 @@
 ### Hi there 👋 I'm Michael (he/him)!
 
-- 🤔 ~~I’m looking for SWE opportunities in the Bay Area~~ 
-  - 🙏 Thank you to everyone who helped me get here!
-- Next up: 
+I'm a Software Engineer at LinkedIn, working on productivity tools for our internal teams. 
+
+I have a lot of technologies I want to become more familiar with. Here are a few of them: 
+
+- Tech To-Do List:
+  - ReChart for visualization
   - SQL optimization
   - Double down on Jest and RTL
   - Double down on TypeScript
