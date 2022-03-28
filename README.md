@@ -2,9 +2,13 @@
 
 I'm a Software Engineer at LinkedIn, working on productivity tools for our internal teams. 
 
+_______
+
 I have a lot of technologies I want to become more familiar with. Here are a few of them: 
 
-- Tech To-Do List:
+<details>
+  <summary>Tech To-Do List:</summary>
+  
   - ReChart for visualization
   - SQL optimization
   - Double down on Jest and RTL
@@ -13,9 +17,15 @@ I have a lot of technologies I want to become more familiar with. Here are a few
   - Flask
   - GraphQL
   - React Native -> Flutter
-  - more React + RxJS + Redux/Redux Toolkit
-- 💬 Ask me about my experiences with the League Boards or Hack Reactor!
-- 📫 Let's connect! [LinkedIn/michaelhchan](https://www.linkedin.com/in/michaelhchan/)
+  - more React + RxJS + Redux/Redux Toolkit || Recoil || Remix
+</details>
+
+_________
+
+
+💬 If you're planning on/currently going through a bootcamp and want to gather some insights about my experiences, I'd be happy to chat!
+📫 Let's connect! [LinkedIn/michaelhchan](https://www.linkedin.com/in/michaelhchan/)
+  
 
 #### Stack it!
 
