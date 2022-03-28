@@ -7,7 +7,7 @@ _______
 I have a lot of technologies I want to become more familiar with. Here are a few of them: 
 
 <details>
-  <summary>Tech To-Do List:</summary>
+  <summary>🗒️ Tech To-Do List:</summary>
   
   - ReChart for visualization
   - SQL optimization
@@ -22,8 +22,7 @@ I have a lot of technologies I want to become more familiar with. Here are a few
 
 _________
 
-
-💬 If you're planning on/currently going through a bootcamp and want to gather some insights about my experiences, I'd be happy to chat!
+💬 Feel free to reach out if you'd like to talk about job searching, interviewing, coding bootcamps, #LinkedInLife\
 📫 Let's connect! [LinkedIn/michaelhchan](https://www.linkedin.com/in/michaelhchan/)
   
 
