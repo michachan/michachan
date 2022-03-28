@@ -10,6 +10,7 @@ I have a lot of technologies I want to become more familiar with. Here are a few
   <summary>🗒️ Tech To-Do List:</summary>
   
   - ReChart for visualization
+  - Azure (various)
   - SQL optimization
   - Double down on Jest and RTL
   - Double down on TypeScript
