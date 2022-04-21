@@ -9,16 +9,7 @@ I have a lot of technologies I want to become more familiar with. Here are a few
 <details>
   <summary>🗒️ Tech To-Do List:</summary>
   
-  - ReChart for visualization
-  - Azure (various)
-  - SQL optimization
-  - Double down on Jest and RTL
-  - Double down on TypeScript
-  - Java/Spring Boot
-  - Flask
-  - GraphQL
-  - React Native -> Flutter
-  - more React + RxJS + Redux/Redux Toolkit || Recoil || Remix
+  - Azure!!!!
 </details>
 
 _________
