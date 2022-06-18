@@ -2,16 +2,6 @@
 
 I'm a Software Engineer at LinkedIn, working on productivity tools for our internal teams. 
 
-_______
-
-I have a lot of technologies I want to become more familiar with. Here are a few of them: 
-
-<details>
-  <summary>🗒️ Tech To-Do List:</summary>
-  
-  - Azure!!!!
-</details>
-
 _________
 
 💬 Feel free to reach out if you'd like to talk about job searching, interviewing, coding bootcamps, #LinkedInLife\
