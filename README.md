@@ -5,7 +5,7 @@ I'm a Software Engineer at LinkedIn, working on productivity tools for our inter
 _________
 
 💬 Feel free to reach out if you'd like to talk about job searching, interviewing, coding bootcamps, #LinkedInLife\
-📫 Let's connect! [LinkedIn/michaelhchan](https://www.linkedin.com/in/michaelhchan/)
+📫 Let's connect! [[in]/michaelhchan](https://www.linkedin.com/in/michaelhchan/)
   
 
 #### Stack it!
