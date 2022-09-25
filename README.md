@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Michael (he/him)!
 
-I'm a Software Engineer at LinkedIn, working on productivity tools for our internal teams. 
+I'm a Software Engineer at LinkedIn, developing tools that help our sales teams be more productive. 
 
 _________
 
