@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Michael (he/him)!
 
-I'm a Software Engineer at LinkedIn, developing tools that help our sales teams be more productive. 
+I'm was a Software Engineer at LinkedIn, developing tools that help our sales teams be more productive. I'll soon be announcing my #NextPlay, so stay tuned!
 
 _________
 
 💬 Feel free to reach out if you'd like to talk about job searching, interviewing, coding bootcamps, #LinkedInLife\
-📫 Let's connect! [[in]/michaelhchan](https://www.linkedin.com/in/michaelhchan/)
+📫 Let's connect! [[in]/michachan](https://www.linkedin.com/in/michachan/)
   
 
 #### Stack it!
