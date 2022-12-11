@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Michael (he/him)!
 
-I'm was a Software Engineer at LinkedIn, developing tools that help our sales teams be more productive. I'll soon be announcing my #NextPlay, so stay tuned!
+I was a Software Engineer at LinkedIn, developing tools that help our sales teams be more productive. I've just started a new role at Microsoft as a Software Engineer working on an upcoming Azure preview feature. Stay tuned!
 
 _________
 
