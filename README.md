@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Michael (he/him)!
 
-I was a Software Engineer at LinkedIn, developing tools that help our sales teams be more productive. I've just started a new role at Microsoft as a Software Engineer working on an upcoming Azure preview feature. Stay tuned!
+I'm a software engineer on the Azure Chaos Studio frontend team at Microsoft. A productivity engineer at heart.
 
 _________
 
-💬 Feel free to reach out if you'd like to talk about job searching, interviewing, coding bootcamps, #LinkedInLife\
+💬 Feel free to reach out if you'd like to talk about job searching, interviewing, computer science/university, or coding bootcamps
 📫 Let's connect! [[in]/michachan](https://www.linkedin.com/in/michachan/)
   
 
