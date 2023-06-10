@@ -1,12 +1,10 @@
 ### Hi there 👋 I'm Michael (he/him)!
 
-I'm a software engineer on the Azure Chaos Studio frontend team at Microsoft. A productivity engineer at heart.
+I'm a software engineer on the Azure Chaos Studio Resource Provider frontend team at Microsoft.
 
 _________
 
-💬 Feel free to reach out if you'd like to talk about job searching, interviewing, computer science/university, or coding bootcamps
 📫 Let's connect! [[in]/michachan](https://www.linkedin.com/in/michachan/)
-  
 
 #### Stack it!
 
