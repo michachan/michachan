@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Michael (he/him)!
 
-I'm a software engineer on the Azure Chaos Studio Resource Provider frontend team at Microsoft.
+I'm a software engineer on the Azure Chaos Studio - Portal Extension at Microsoft.
 
 _________
 
