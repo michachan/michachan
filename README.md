@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Michael (he/him)!
 
-I'm a software engineer on the Azure Chaos Studio - Portal Extension team at Microsoft.
+I'm a software engineer on the ~~Azure Chaos Studio - Portal Extension team at Microsoft~~ ~~Supply Engineering team at StubHub~~ Retail Advanced Trade, Consumer Team at Coinbase.
 
 _________
 
